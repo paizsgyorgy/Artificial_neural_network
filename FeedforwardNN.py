@@ -2,7 +2,6 @@
 import numpy as np
 from math import e
 
-# ---------------------------------------------------------------------------
 
 ## Define sigmoid activation function
 def sigmoid(x):
@@ -14,7 +13,7 @@ def sigmoid(x):
 ## Define function to predict results from output layer probabilities
 ## Note: this only works with binary classification
 def predict(o2):
-    return np.array([np.round(x) for x in o2])
+    return np.array([int(np.round(x)) for x in o2])
 
 # ---------------------------------------------------------------------------
 

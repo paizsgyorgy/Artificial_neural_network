@@ -127,3 +127,6 @@ token.pickle
 
 #DS_Store
 .DS_Store
+
+#No png files
+*.png

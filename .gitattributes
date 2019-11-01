@@ -1,6 +1,6 @@
 
 # Jupyter notebook
-*.ipynb  text
+*.ipynb  linguist-language=python
 
 
 

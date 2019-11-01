@@ -10,4 +10,4 @@ The feedforward neural network was the first and simplest type of artificial neu
 (Source: wikipedia.com)
 
 ## Visualisation of the learning process (KDE plot)
-<img src="Output/learning.gif" />
+<img src="Output/learning.gif" /> <img src="Output/losses.gif" />

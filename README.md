@@ -1,4 +1,4 @@
-# Artificial_neural_network
+# Artificial neural network
 **This is a pilot-project to build a basic artificial neural network from scratch, incl. backpropagation learning function**
 
 A feedforward neural network is an artificial neural network wherein connections between the nodes do not form a cycle. As such, it is different from recurrent neural networks.
@@ -9,5 +9,5 @@ The feedforward neural network was the first and simplest type of artificial neu
 
 (Source: wikipedia.com)
 
-## Visualisation of the learning process (KDE plot)
+## Visualisation of the learning process (KDE plot and learning curve (losses))
 <img src="Output/learning.gif" /> <img src="Output/losses.gif" />

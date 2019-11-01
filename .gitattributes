@@ -1,0 +1,13 @@
+
+# Jupyter notebook
+*.ipynb  text
+
+
+
+# Exclude files from language detection
+*.html linguist-vendored=true
+*.css linguist-vendored=true
+
+# Exclude files from exporting
+.gitattributes  export-ignore
+.gitignore      export-ignore
